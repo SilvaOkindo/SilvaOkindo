@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilvaOkindo
-- 👀 I’m interested in ... in android development and machine learning and AI
-- 🌱 I’m currently learning ... android development with kotlin
+- 👀 I’m interested in ... android development machine learning and AI, Web development, flutter
+- 🌱 I’m currently learning ... React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... okindosilva@gmail.com
 
