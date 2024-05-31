@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilvaOkindo
-- 👀 I’m interested in ... android development machine learning and AI, Web development, flutter
+- 👀 I’m interested in ... web development: |Django| |React js| |Next Js| machine learning and AI, flutter
 - 🌱 I’m currently learning ... React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... okindosilva@gmail.com
